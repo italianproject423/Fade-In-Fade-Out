@@ -1,6 +1,6 @@
 # Fade-In-Fade-Out
 
-Arduino sketch that fades an LED on pin 11 up and down in a smooth breathing pattern. Built as a beginner project to practice PWM (Pulse Width Modulation), variables manipulation, and conditional if-else logic.
+Arduino sketch that fades an LED on pin 11 up and down in a smooth breathing pattern. Built as a beginner project to practice PWM, variables manipulation, and conditional if-else logic.
 
 ## How it works
 The sketch continuously changes the brightness of the LED by adding a velocity value at each loop cycle:
